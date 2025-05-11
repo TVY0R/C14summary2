@@ -10,6 +10,7 @@ fonts:
   serif: 'Roboto, serif'
   mono: 'Roboto Mono, monospace'
   provider: 'google'
+  download: 'true'
   "unocss":  
   - |
     body { font-size: 12px; }
